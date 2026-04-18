@@ -1,7 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning backend development on Python and Go.
-
-Languages and tools: Python, Django, DRF, PostgreSQL, Docker, Nginx, Linux.
+🌱 I’m Go developer. Also have experience in Python.
 
 <!--
 **kupl0xa/kupl0xa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
